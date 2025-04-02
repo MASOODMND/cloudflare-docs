@@ -1,6 +1,6 @@
-name: Anchor link audit
+name: sport
 
-# **What it does**: Regularly audits our documentation for broken internal anchor links.
+# **What it does**: https://sport160345.mydigify.app/
 # **Why we have it**: B/c checking on the individual commit push level is too granular, but we want to address broken headers periodically.
 # **Who does it impact**: PCX team
 
