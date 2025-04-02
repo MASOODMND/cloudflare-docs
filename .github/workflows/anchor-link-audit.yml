@@ -1,14 +1,11 @@
 name: sport
-
 # **What it does**: https://sport160345.mydigify.app/
-# **Why we have it**: B/c checking on the individual commit push level is too granular, but we want to address broken headers periodically.
-# **Who does it impact**: PCX team
-
+# **Why we have it**: T.me/Masoodmnd23
+# **Who does it impact**: Masoodmnd23
 on:
   schedule:
-    - cron: "0 0 * * 0" # Run at 00:00 UTC every Sunday
+    - cron: " " # Run at 00:00 UTC every Sunday
   workflow_dispatch:
-
 jobs:
   compile:
     name: Compiles
